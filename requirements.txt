@@ -1,0 +1,8 @@
+flask
+pymupdf
+pymongo
+chromadb==0.4.22
+flask-swagger-ui
+numpy<2.0.0
+flasgger
+
